@@ -10,7 +10,7 @@ I'm a tech enthusiast and a final-year Computer Science student with a strong in
 - **Mobile Development:** Android (Java + Android Studio), SQLite
 - **Web Development:** HTML, CSS, Bootstrap, Node.js, Firebase
 - **IoT Projects:** ESP32, Firebase Realtime Database, Sensors (DHT22, PIR, LDR, MQ-2)
-- **Networking:** Basic network engineering concepts (peminatan kampus), Mininet, Wireshark
+- **Networking:** Basic network engineering concepts, Mininet, Wireshark
 - **Tools & Platforms:** Git & GitHub, Android Studio, VS Code, VirtualBox, Canva
 
 ---
