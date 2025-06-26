@@ -43,6 +43,6 @@ I'm passionate about creating tech solutions that are efficient, scalable, and s
 Feel free to reach out or check my work here:
 
 - GitHub: [github.com/taqiyard](https://github.com/taqiyard)
-- LinkedIn: [linkedin.com/in/muhammad-taqi-yardan-037748285](https://linkedin.com/in/muhammad-taqi-yardan-037748285)
+- LinkedIn: [linkedin.com/in/taqiyard](https://linkedin.com/in/taqiyard)
 - Email: taqiyardan19@gmail.com
 
