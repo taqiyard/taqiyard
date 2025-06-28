@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taqi Yardan
 
-I'm a tech enthusiast and a final-year Computer Science student with a strong interest in backend development, IoT, cybersecurity, and financial technology. I enjoy building practical applications that solve real-world problems and always strive to sharpen my skills through self-projects.
+I'm a tech enthusiast and a third-year Computer Science student with a strong interest in backend development, IoT, and financial technology. I enjoy building practical applications that solve real-world problems and always strive to sharpen my skills through self-projects.
 
 ---
 
